@@ -133,7 +133,7 @@ Deployment Interface (Gradio)
 
 Dataset used:
 
-* BOT-IoT
+* BOT-IoT - a large dataset of +72M rows of data
 
 The dataset contains IoT network traffic with both normal and malicious activity.
 
