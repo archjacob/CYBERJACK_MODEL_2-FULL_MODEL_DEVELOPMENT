@@ -2,6 +2,9 @@
 
 # CyberJack IDS — Advanced IoT Cyberattack Detection System
 
+## Also the model is now live in HuggingFace
+https://huggingface.co/itsjakup/CYBERJACK-MODEL-V1/blob/main/xgboost_ids_model.joblib
+
 An end-to-end Machine Learning pipeline for detecting cyberattacks in IoT network traffic using scalable data engineering, robust validation, explainable AI techniques, and deployment-ready architecture.
 
 ---
